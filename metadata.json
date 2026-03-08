@@ -1,0 +1,5 @@
+{
+  "name": "Clarity Copilot clínico",
+  "description": "Una plataforma avanzada de implantología dental que implementa los principios de la medicina P4. Cuenta con un panel clínico para que los doctores sincronicen evidencia y un portal para pacientes premium para planes de tratamiento personalizados y predictivos.",
+  "requestFramePermissions": ["microphone"]
+}
